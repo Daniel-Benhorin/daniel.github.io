@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1 {
+    font-family:Georgia, 'Times New Roman';
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    text-align:left ;
+  }
+  
+  h2 {
+
+    font-family: "Bebas Neue", serif;
+    color: rgb(0, 0, 0);
+    font-size: 75px;
+  }
+  
+  p {
+    
+    font-family:
+    font-size: 25px;
+  }
+  
+  img {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 5px dashed black;
+    
+  }
